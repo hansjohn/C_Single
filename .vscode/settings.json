@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "2.C": "cpp",
+        "system_error": "c",
+        "xlocale": "c",
+        "initializer_list": "c",
+        "type_traits": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "limits": "c",
+        "utility": "c",
+        "terminal.integrated.shell.windows": "powershell.exe",
+        "xiosbase": "c",
+        "algorithm": "c"
+    },
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "C_Cpp.errorSquiggles": "Enabled"
+}
